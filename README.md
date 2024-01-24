@@ -20,7 +20,7 @@ The `Walmart Retail Data.xlsx` file encompasses extensive transactional data, fe
 
 The `West Region Analysis.twb` is a Tableau Workbook dedicated to analyzing Walmart's performance in the West region. It offers a comprehensive look at regional spending and profit margins, enhanced by detailed visualizations.
 
-## Analysis and Insights
+## Analysis
 
 The analysis focuses on several key areas:
 
